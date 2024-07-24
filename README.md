@@ -69,6 +69,12 @@
 [15th May] [Annual Review of Biomedical Data Science, 2024] \
 [[Paper](https://arxiv.org/pdf/2310.13767)] 
 
+**Recent Advances in Predictive Modeling with Electronic Health Records**\
+*Wang, J., Luo, J., Ye, M., Wang, X., Zhong, Y., Chang, A.,  Ma, F.* \
+[2nd Feb] [arXiv preprint arXiv:2402.01077, 2024] \
+[[Paper](https://arxiv.org/pdf/2402.01077)] 
+
+
 **The path from task-specific to general purpose artificial intelligence for medical diagnostics: A bibliometric analysis**\
 *Chang, C., Shi, W., Wang, Y., Zhang, Z., Huang, X., & Jiao, Y.*\
 [15th May] [Computers in Biology and Medicine, 2024] \
@@ -89,6 +95,7 @@
 [[Paper](https://arxiv.org/abs/2405.03162)]
 
 
+---
 
 ### Anomaly Detection
 
@@ -119,22 +126,23 @@
 
 
 ---
-### Image Restoration
-#### Inpainting
+### Applications
+#### Rare Disease Identification
 
-**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion** \
-*Colin Hansen, Simas Glinskis, Ashwin Raju, Micha Kornreich, JinHyeong Park, Jayashri Pawar, Richard Herzog, Li Zhang, Benjamin Odry* \
-[4th June] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2406.02477)]
+**Retrieving and Refining: A Hybrid Framework with Large Language Models for Rare Disease Identification** \
+*Jinge Wu, Hang Dong, Zexi Li, Arijit Patra, Honghan Wu * \
+[16th May] [arXiv preprint arXiv:2405.10440, 2024] \
+[[Paper](https://arxiv.org/pdf/2405.10440)]
 
 ---
 
-#### Super Resolution
+#### Time-to-event Models (Patient Trajectory Prediction )
 
-**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model** \
-*Yushen Xu, Xiaosong Li, Yuchan Jie, Haishu Tan* \
-[26th April] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2404.17357)]
+
+**MOTOR: A Time-To-Event Foundation Model For Structured Medical Records** \
+*Steinberg, E., Fries, J., Xu, Y., & Shah, N.* \
+[5th 12] [arXiv preprint arXiv:2301.03150, 2023] \
+[[Paper](https://arxiv.org/pdf/2301.03150)]
 
 
 ---
