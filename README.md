@@ -1,6 +1,6 @@
 # <p align=center>`Awesome Foundation Models in Disease Diagnosis and Prediction`</p> # 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gxy837/Awesome-Foundation-Models-in-Disease-Prediction) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about foundation models in disease diagnosis and prediction:fire::fire:
@@ -34,6 +34,7 @@
 - [Challenge Reports](#challenge-reports)
 
 - [Papers](#papers)
+  - [Multimodal Learning](#multimodal-learning)
   - [Anomaly Detection](#anomaly-detection)
   - [Denoising](#denoising)
   - [Segmentation](#segmentation)
@@ -57,20 +58,37 @@
   
 ## Survey Papers
 
-**Diffusion Models in Low-Level Vision: A Survey** \
+<!-- **Diffusion Models in Low-Level Vision: A Survey** \
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
 [16th June] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2406.11138)] [[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]
+[[Paper](https://arxiv.org/abs/2406.11138)] [[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)] -->
 
+
+**Graph Artificial Intelligence in Medicine**\
+*Johnson, R., Li, M. M., Noori, A., Queen, O., & Zitnik, M.* \
+[15th May] [Annual Review of Biomedical Data Science, 2024] \
+[[Paper](https://arxiv.org/pdf/2310.13767)] 
+
+**The path from task-specific to general purpose artificial intelligence for medical diagnostics: A bibliometric analysis**\
+*Chang, C., Shi, W., Wang, Y., Zhang, Z., Huang, X., & Jiao, Y.*\
+[15th May] [Computers in Biology and Medicine, 2024] \
+[[Paper](https://doi.org/10.1016/j.compbiomed.2024.108258)] 
 
 ## Challenge Reports
 
-**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics** \
+<!-- **Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics** \
 *Rucha Deshpande, Varun A. Kelkar, Dimitrios Gotsis, Prabhat Kc, Rongping Zeng, Kyle J. Myers, Frank J. Brooks, Mark A. Anastasio* \
 [2nd May] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2405.01822)] [[Website](https://www.aapm.org/GrandChallenge/DGM-Image/)]
+[[Paper](https://arxiv.org/abs/2405.01822)] [[Website](https://www.aapm.org/GrandChallenge/DGM-Image/)] -->
 
 ## Papers
+### Multimodal Learning
+**Advancing Multimodal Medical Capabilities of Gemini** \
+*Lin Yang, Shawn Xu, Andrew Sellergren, Timo Kohlberger, Yuchen Zhou, Ira Ktena, Atilla Kiraly, Faruk Ahmed, Farhad Hormozdiari, Tiam Jaroensri, Eric Wang, Ellery Wulczyn, Fayaz Jamil, Theo Guidroz, Chuck Lau, Siyuan Qiao, Yun Liu, Akshay Goel, Kendall Park, Arnav Agharwal, Nick George, Yang Wang, Ryutaro Tanno, David G. T. Barrett, Wei-Hung Weng, S. Sara Mahdavi, Khaled Saab, Tao Tu, Sreenivasa Raju Kalidindi, Mozziyar Etemadi, Jorge Cuadros, Gregory Sorensen, Yossi Matias, Katherine Chou, Greg Corrado, Joelle Barral, Shravya Shetty, David Fleet, S. M. Ali Eslami, Daniel Tse, Shruthi Prabhakara, Cory McLean, Dave Steiner, Rory Pilgrim, Christopher Kelly, Shekoofeh Azizi, Daniel Golden* \
+[6th May, 2024] [arXiv, 2024]<br>
+[[Paper](https://arxiv.org/abs/2405.03162)]
+
+
 
 ### Anomaly Detection
 
